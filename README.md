@@ -1,3 +1,10 @@
-# Himanshu's API Testing Journey
+### 👋 Hi, I'm Himanshu
 
-This repo will contain my Postman collections, API test samples, and notes as I transition from manual testing to SDET.
+- 🔍 ISTQB Certified QA Professional with 6+ years in Medical Imaging domain  
+- 🚀 Currently transitioning to SDET (Java, Selenium, Postman, RestAssured)  
+- 🛠️ Experience with syngo.via, PACS, DICOM, Bayer MRISI, and Certegra systems  
+- 🌍 Targeting remote SDET roles — open to all domains  
+- 🦁 Documenting my journey publicly — #IDeserveBetter
+
+> 📬 DM me or connect if you're building in QA / Automation / HealthTech!
+
